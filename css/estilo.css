@@ -8,6 +8,13 @@
 
 	width: 100%;
 	height: 500px;
-	background-color: green;
+	background-color: #33FFFD;
+	margin-top: 10px;  
+}
+.pie{
+
+	width: 100%;
+	height: 120px;
+	background-color: gray;
 	margin-top: 10px;  
 }
